@@ -22,9 +22,6 @@ Features:
 - Optimized for modern browsers
 
 Getting Started:
-Clone the repository:
-git clone https://github.com/phantekzy/macbook-store.git
-
 Navigate into the project directory:
 cd macbook-store
 
@@ -51,5 +48,3 @@ Project Structure:
 License:
 This project is created by Imainigination Software Groupe. All rights reserved. You may use it for learning and personal projects only.
 
-Contact:
-For any inquiries, please contact the creator via GitHub: https://github.com/phantekzy
